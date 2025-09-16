@@ -1,0 +1,104 @@
+parameter,aantal_requests,voorbeeldwaarden,voorkomende_endpoints_(max5),vermoedelijke_betekenis
+url,7,f1journaal.be; https://f1journaal.be/,log.outbrainimg.com/loggerServices/dwce_cheq_events; mv.outbrain.com/Multivac/api/get; yield-manager.browsiprod.com/supply/v5,Pagina-URL / referrer
+sessionId,5,1757329461489; 345a84d5-6e18-cd15-ba61-a76e59148044,eventlog.outbrain.com/logger/v1/widget/; log.outbrainimg.com/loggerServices/dwce_cheq_events,Session ID (sessie groepering)
+cheqEvent,4,0,log.outbrainimg.com/loggerServices/dwce_cheq_events,
+cheqSource,4,1,log.outbrainimg.com/loggerServices/dwce_cheq_events,
+exitReason,4,4,log.outbrainimg.com/loggerServices/dwce_cheq_events,
+message,4,lOMFUOHuUQLtlwPhlvlvcdXhy/aa7Up7GAMXznCat+L6EMQGKzrnXa+9kIw6HW7VoDF45lseriH79T1K,log.outbrainimg.com/loggerServices/dwce_cheq_events,
+pvId,4,acb8a3a3cd7121ff0af7e04a2646c0b6,log.outbrainimg.com/loggerServices/dwce_cheq_events,PageView ID (uniek per page load)
+timestamp,4,1757329462590; 1757329462602; 1757329462611,log.outbrainimg.com/loggerServices/dwce_cheq_events,
+ab,3,0,mcdp-chidc2.outbrain.com/l,A/B test bucket
+cet,3,4g,mcdp-chidc2.outbrain.com/l,Connection type (bv. 4g)
+chs,3,12,mcdp-chidc2.outbrain.com/l,
+cnsnt,3,no_consent,mcdp-chidc2.outbrain.com/l,Consent status string (bv. no_consent)
+eT,3,0,mcdp-chidc2.outbrain.com/l,Event type
+ll,3,0,mcdp-chidc2.outbrain.com/l,
+lo,3,1114,mcdp-chidc2.outbrain.com/l,
+lsd,3,-1,mcdp-chidc2.outbrain.com/l,Last scroll depth
+mvreq,3,1695,mcdp-chidc2.outbrain.com/l,
+mvres,3,2225; 2236,mcdp-chidc2.outbrain.com/l,
+obreq,3,1049,mcdp-chidc2.outbrain.com/l,
+oo,3,true,mcdp-chidc2.outbrain.com/l,Opt-out / override flag (niet bevestigd)
+pVis,3,1; 0,mcdp-chidc2.outbrain.com/l,Page/slot visibility
+retries,3,0,mcdp-chidc2.outbrain.com/l,
+tm,3,1108; 1115; 1124,mcdp-chidc2.outbrain.com/l,Timing metric (ms sinds load)
+to,3,1757329460364,mcdp-chidc2.outbrain.com/l,
+token,3,e4094a9bf04597f66722740012bf72ca_230797_1757329462220_1; 4d93b05d698fbf82fb488578cacbb639_230797_1757329462294_1; cff3c671a0b3f7c95aa2c5606f63645b_230797_1757329462493_1,mcdp-chidc2.outbrain.com/l,Samengesteld log/route token
+wRV,3,23abf8edd0f_2025-09-08,mcdp-chidc2.outbrain.com/l,
+widgetHeight,3,43; 334; 172,mcdp-chidc2.outbrain.com/l,Widget hoogte
+widgetWidth,3,217; 223,mcdp-chidc2.outbrain.com/l,Widget breedte
+widgetX,3,674; 677,mcdp-chidc2.outbrain.com/l,Widget X-positie
+widgetY,3,3880; 3825; 4238,mcdp-chidc2.outbrain.com/l,Widget Y-positie
+wl,3,0,mcdp-chidc2.outbrain.com/l,
+abwl,2,0,mv.outbrain.com/Multivac/api/get,A/B whitelist
+activeTab,2,true,mv.outbrain.com/Multivac/api/get,
+adblck,2,0,mv.outbrain.com/Multivac/api/get,
+apv,2,false,mv.outbrain.com/Multivac/api/get,
+bandwidth,2,10,mv.outbrain.com/Multivac/api/get,
+ccnsnt,2,false,mv.outbrain.com/Multivac/api/get,Consent boolean (true/false)
+ccpaStat,2,0,mv.outbrain.com/Multivac/api/get,CCPA status (VS)
+cha,2,arm,mv.outbrain.com/Multivac/api/get,
+chb,2,64,mv.outbrain.com/Multivac/api/get,
+chfv,2,"[{""brand"":""Chromium"",""version"":""140.0.7339.80""},{""brand"":""Not=A?Brand"",""version"":""24.0.0.0""},{""brand"":""Google Chrome"",""v",mv.outbrain.com/Multivac/api/get,
+chp,2,macOS,mv.outbrain.com/Multivac/api/get,
+chpv,2,15.6.0,mv.outbrain.com/Multivac/api/get,
+clientType,2,21,mv.outbrain.com/Multivac/api/get,
+clientVer,2,23abf8edd0f_2025-09-08,mv.outbrain.com/Multivac/api/get,
+clss,2,lOMFUOHuUQLtlwPhlvlvcdXhy/aa7Up7GAMXznCat+L6EMQGKzrnXa+9kIw6HW7VoDF45lseriH79T1K,mv.outbrain.com/Multivac/api/get,Class / variant
+cmpStat,2,0,mv.outbrain.com/Multivac/api/get,CMP status code (0 = niet geladen / geen consent)
+cs,2,2,mcdp-chidc2.outbrain.com/l,
+cw,2,957; 223,mv.outbrain.com/Multivac/api/get,
+darkMode,2,true,mv.outbrain.com/Multivac/api/get,
+devMem,2,8,mv.outbrain.com/Multivac/api/get,
+dpr,2,2,mv.outbrain.com/Multivac/api/get,
+et,2,true,mv.outbrain.com/Multivac/api/get,
+format,2,html,mv.outbrain.com/Multivac/api/get,
+hwc,2,16,mv.outbrain.com/Multivac/api/get,
+idx,2,1; 0,mv.outbrain.com/Multivac/api/get,
+key,2,NANOWDGT01,mv.outbrain.com/Multivac/api/get,
+lsl,2,1,mv.outbrain.com/Multivac/api/get,
+netQ,2,4g,mv.outbrain.com/Multivac/api/get,
+obRecsAbtestVars,2,"1550:5795,1551:5797",mv.outbrain.com/Multivac/api/get,
+ogn,2,https://f1journaal.be/,mv.outbrain.com/Multivac/api/get,
+osLang,2,en-GB,mv.outbrain.com/Multivac/api/get,
+px,2,673; 0,mv.outbrain.com/Multivac/api/get,
+py,2,1714; 3816,mv.outbrain.com/Multivac/api/get,
+rand,2,69586; 30449,mv.outbrain.com/Multivac/api/get,
+re,2,2247; 2239,mcdp-chidc2.outbrain.com/l,
+recs,2,true,mv.outbrain.com/Multivac/api/get,
+scrH,2,982,mv.outbrain.com/Multivac/api/get,
+scrOri,2,l,mv.outbrain.com/Multivac/api/get,
+scrW,2,1512,mv.outbrain.com/Multivac/api/get,
+secured,2,true,mv.outbrain.com/Multivac/api/get,
+settings,2,true,mv.outbrain.com/Multivac/api/get,Configuratie snapshot
+sig,2,GI7CAvhz,mv.outbrain.com/Multivac/api/get,
+tch,2,0,mv.outbrain.com/Multivac/api/get,
+ttfb,2,795,mv.outbrain.com/Multivac/api/get,Time-To-First-Byte meting
+va,2,true,mv.outbrain.com/Multivac/api/get,
+version,2,23abf8edd0f_2025-09-08,mv.outbrain.com/Multivac/api/get,
+vpd,2,2959; 857,mv.outbrain.com/Multivac/api/get,Viewport/visibility descriptor
+wdr-attribution-src,2,1,mv.outbrain.com/Multivac/api/get,
+widgetJSId,2,GS_1; AR_64,mv.outbrain.com/Multivac/api/get,
+winH,2,857,mv.outbrain.com/Multivac/api/get,Window height (px)
+winW,2,957,mv.outbrain.com/Multivac/api/get,Window width (px)
+at,1,Homepage - F1journaal.be - Dagelijks Formule 1 nieuws,yield-manager.browsiprod.com/supply/v5,
+attributes,1,"{""injectBrowsi"":""1:DMOA_1"",""pvId"":""-1"",""sectionId"":-1,""widgetJsId"":""NA"",""widgetId"":1,""cardIdx"":""-1"",""docId"":-1,""uuid"":""-",eventlog.outbrain.com/logger/v1/widget/,
+bid,1,Xb@JVEj!JoPSwtrwtiWh,yield-manager.browsiprod.com/supply/v5,
+ch,1,1,widget-pixels.outbrain.com/widget/detect/px.gif,
+cheq,1,1,mcdp-chidc2.outbrain.com/l,
+e,1,1,widgets.outbrain.com/nanoWidget/23abf8edd0f_2025-09-08/module/clip.js,
+em,1,1,mv.outbrain.com/Multivac/api/get,
+eme,1,1,mcdp-chidc2.outbrain.com/l,
+eventGroup,1,BrowsiInjection,eventlog.outbrain.com/logger/v1/widget/,
+eventTypeId,1,10300,eventlog.outbrain.com/logger/v1/widget/,
+ga,1,"{""t"":1757329461592,""eu"":false}",yield-manager.browsiprod.com/supply/v5,
+l,1,nl_NL,yield-manager.browsiprod.com/supply/v5,
+pk,1,outbrain,yield-manager.browsiprod.com/supply/v5,
+pvid,1,f9128903-8770-4ea9-8696-0e33e98ca62b,yield-manager.browsiprod.com/supply/v5,
+requestId,1,-1,eventlog.outbrain.com/logger/v1/widget/,
+rtt,1,531,mcdp-chidc2.outbrain.com/l,Round-trip time schatting
+sh,1,982,yield-manager.browsiprod.com/supply/v5,
+sk,1,d_mapping,yield-manager.browsiprod.com/supply/v5,
+sw,1,1512,yield-manager.browsiprod.com/supply/v5,
+t,1,YWNiOGEzYTNjZDcxMjFmZjBhZjdlMDRhMjY0NmMwYjY=,mv.outbrain.com/Multivac/api/get,Base64 payload met o.a. pvId / trace
+wdr-cosc,1,1,mv.outbrain.com/Multivac/api/get,
